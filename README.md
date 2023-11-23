@@ -2,7 +2,7 @@
 This repo contains Python applications to practice DevOps practice with these
 
 # Assignment Instruction
-- Fork the repo
+- Fork the repo (Done)
 - Run Both Applications in localhost
 - Provide all the changes needed in configuration files to properly deploy it in localhost in the documentation
 - Deploy both applications in a VM, where the host will be the VM's IP
